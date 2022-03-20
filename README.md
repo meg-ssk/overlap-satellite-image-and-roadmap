@@ -61,6 +61,7 @@ https://earthexplorer.usgs.gov
 ## How did we get the road map data?
 The shp file of road map in San-Francisco city was acquired from:  
 https://koordinates.com/layer/101761-city-of-san-francisco-california-streets/  
+Please put unzipped files to the directory : `./materials/shp/`
 
 ## What is 'settings.toml'?
 Several parameters required for the analysis can be changed from this file.
