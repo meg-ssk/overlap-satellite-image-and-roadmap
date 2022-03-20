@@ -1,0 +1,5 @@
+scene_url = "https://s3-us-west-2.amazonaws.com/landsat-pds/c1/L8/044/034/LC08_L1TP_044034_20190706_20190706_01_RT/index.html"
+image_download_directory = "./materials/images/"
+output_image_directory = "./output-images/"
+EPSG = 32610
+crop_area = [542645, 4184720, 554019, 4176372]
